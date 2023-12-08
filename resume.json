@@ -134,7 +134,8 @@
           },
           "avatar":{
               "hidden":false,
-              "shape":"square"
+              "shape":"square",
+              "src":"https://mcc1999.github.io/imgs/avatar.jpg"
           },
           "profile":{
               "name":"马诚聪",
@@ -158,9 +159,7 @@
                   "dataIndex":0
               }
           ],
-          "awardList":[
-
-          ],
+          "awardList":[],
           "workExpList":[
               {
                   "company_name":"蚂蚁集团",
