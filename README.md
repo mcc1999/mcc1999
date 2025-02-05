@@ -3,7 +3,6 @@ Hi there 👋 I'm @mcc1999 .
 - 📍 杭州
 - 🍉 Web development engineer
 - 🏂 Like snowboarding
-- 🐔 Learning Threejs
 - 🍗 Like to eating all kinds of delicious food
 - 🦸‍♂️ Become nobody
 
